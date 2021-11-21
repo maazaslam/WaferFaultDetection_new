@@ -10,3 +10,7 @@
 2020-10-15/11:11:44		Closed Training database successfully
 2020-10-15/11:11:44		Opened Training database successfully
 2020-10-15/11:13:48		Opened Training database successfully
+2021-11-21/16:18:42		Opened Training database successfully
+2021-11-21/16:18:42		Closed Training database successfully
+2021-11-21/16:18:42		Opened Training database successfully
+2021-11-21/16:18:47		Opened Training database successfully
